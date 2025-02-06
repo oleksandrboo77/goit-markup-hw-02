@@ -74,6 +74,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .order-button:hover,
@@ -88,6 +89,14 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.section-our-team .section-title {
+  text-transform: capitalize;
+}
+
+.section-our-portfolio .section-title {
+  text-transform: capitalize;
 }
 
 .topic-title {
@@ -116,6 +125,9 @@ a {
   background-color: #f4f4fd;
 }
 
+.employee-space {
+  background-color: #ffffff;
+}
 .section-footer {
   background-color: #2e2f42;
 }
